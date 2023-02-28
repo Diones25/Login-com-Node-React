@@ -52,7 +52,7 @@ No corpo da requisição do body deve conter esse seguinte objeto JSON:
 ````
 
 #### Rota de usuários
-
+##### Essa rota retorna os usuários do banco de dados na rota privada /users
 ```
   GET /users
 ```
