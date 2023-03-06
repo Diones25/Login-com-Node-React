@@ -61,7 +61,7 @@ No corpo da requisição do body deve conter esse seguinte objeto JSON:
 #### Retorna um JSON
 
 ```
-  Deve retornar um JSON com os dados dos stickers populares durante o dia atual, como no exemplo abaixo
+  Deve retornar um JSON com os dados dos usuários cadastrados no banco de dados
 [
     {
         "_id": "63f69481f118069ede2312ab",
